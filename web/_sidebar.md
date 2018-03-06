@@ -22,6 +22,7 @@
     - [Wordpress on Lightsail](/solutions/aws-wordpress)
     - [NodeJS on Lightsail](/solutions/aws-node)
     - [Ethereum on Lightsail](/solutions/aws-ethereum)
+    - [Polly](/solutions/aws-polly)
   - Payments
     - [Stripe](/solutions/stripe-payment)
 - Deployment
