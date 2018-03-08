@@ -22,8 +22,11 @@
     - [Wordpress on Lightsail](/solutions/aws-wordpress)
     - [NodeJS on Lightsail](/solutions/aws-node)
     - [Ethereum on Lightsail](/solutions/aws-ethereum)
+    - [Polly](/solutions/aws-polly)
   - Payments
     - [Stripe](/solutions/stripe-payment)
+  - Scraping
+    - [Simple Web Scraper](/solutions/simple-web-scraper)
 - Deployment
   - [Deploying projects using CircleCI](/deployment/circle-ci)
   - [Using multiple Syncano accounts](/deployment/multiple-accounts)
